@@ -1,5 +1,3 @@
-package topics;
-
 import java.util.Scanner;
 
 public class questions {
